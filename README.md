@@ -1,10 +1,8 @@
-# ChartVision AI 📸📈
+# ChartVision AI 📸📈 — Site B
 
-Sistema dedicado e independente para análise técnica de fotos e screenshots de gráficos de ações por Inteligência Artificial e Reconhecimento de Padrões.
+Só ações. Três ferramentas:
+1. **Foto do gráfico** (`/`): envia/cola um print e recebe veredito SOBE/DESCE, padrão, entrada, stop e alvos.
+2. **Método do Guia** (`/guia`): PER/PBV/ROE/DY vs concorrentes reais, tendência 6M com pontos de contacto, suporte/resistência, MM20/MM50, ADX→MACD/RSI, padrões, tabela-semáforo, stop/objetivo e justificação escrita.
+3. **Carteira Tática +6% em 2 meses** (`/carteiras`): seleção por tendência confirmada e catalisadores, dupla validação com velas reais, probabilidade de retorno positivo e de atingir o objetivo, tese por ação e plano de gestão.
 
-## Funcionalidades
-- **Upload ou Colagem Instantânea (Ctrl+V)** de capturas de ecrã de qualquer gráfico de ações.
-- **Veredito Inequívoco**: SOBE ou DESCE!
-- **Deteção de Padrões**: Bandeiras, Duplo Fundo/Topo, Triângulos, Ombro-Cabeça-Ombro, etc.
-- **Níveis Operacionais**: Ponto de entrada, Stop Loss de proteção e Alvos de realização de lucros (TP1 e TP2).
-- **100% Gratuito**: Motor algorítmico integrado (suporta opcionalmente chave OpenAI para GPT-4o Vision).
+Deploy: importar na Vercel e clicar Deploy (sem variáveis obrigatórias).
